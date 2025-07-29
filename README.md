@@ -66,7 +66,7 @@ This project is inspired by the classic _Simon Game_ and serves as a fun way to 
 ## 🧑‍💻 Author
 
 **Ghousia Mulla**  
-You can call me Zoya
+You can call me Zoya | 
 Aspiring Full Stack Developer | Passionate about Web & Game Dev  
 [LinkedIn](https://www.linkedin.com/in/mghousia) • [GitHub](https://github.com/ghousiadreams)
 
